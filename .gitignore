@@ -1,0 +1,14 @@
+/*.php
+/*.txt
+/*.zip
+/.htaccess*
+/readme.html
+/favicon.ico
+dup-installer/
+old/
+wp-admin/
+wp-snapshots/
+wp-includes/
+wp-content/*/*
+!wp-content/themes/pet
+wp-content/themes/pet/css/fontawesome-free
